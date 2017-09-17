@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="169991" started-at="2017-09-17T11:55:49Z" finished-at="2017-09-17T11:58:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="169991" started-at="2017-09-17T11:55:49Z" finished-at="2017-09-17T11:58:39Z">
+      <class name="com.kiran.smava.testScripts.TC002_UserLogin">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.kiran.smava.testScripts.TC002_UserLogin@1bce4f0a]" name="setUP" is-config="true" duration-ms="63329" started-at="2017-09-17T17:27:21Z" finished-at="2017-09-17T17:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="signIn()[pri:0, instance:com.kiran.smava.testScripts.TC002_UserLogin@1bce4f0a]" name="signIn" duration-ms="13452" started-at="2017-09-17T17:28:24Z" finished-at="2017-09-17T17:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.kiran.smava.testScripts.TC002_UserLogin@1bce4f0a]" name="quitBrowser" is-config="true" duration-ms="781" started-at="2017-09-17T17:28:38Z" finished-at="2017-09-17T17:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.kiran.smava.testScripts.TC002_UserLogin -->
+      <class name="com.kiran.smava.testScripts.TC001_LoanSelection">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.kiran.smava.testScripts.TC001_LoanSelection@3bfdc050]" name="setUP" is-config="true" duration-ms="25444" started-at="2017-09-17T17:25:49Z" finished-at="2017-09-17T17:26:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="UserDetails()[pri:0, instance:com.kiran.smava.testScripts.TC001_LoanSelection@3bfdc050]" name="UserDetails" duration-ms="66165" started-at="2017-09-17T17:26:14Z" finished-at="2017-09-17T17:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserDetails -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.kiran.smava.testScripts.TC001_LoanSelection@3bfdc050]" name="quitBrowser" is-config="true" duration-ms="770" started-at="2017-09-17T17:27:20Z" finished-at="2017-09-17T17:27:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.kiran.smava.testScripts.TC001_LoanSelection -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
